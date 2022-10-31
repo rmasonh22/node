@@ -13,3 +13,7 @@ console.count('test',a) //using count function
 console.count('test',a)
 console.count('test',a)
 console.count('test',a)
+//console.clear();
+console.warn('WARNING');
+console.info("INFO");
+console.table([{a:1,b:2}, {a:5, b:10}]); //outputs table
